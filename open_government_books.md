@@ -8,6 +8,8 @@
 
 Emerson, J. (2013). Visualizing information for advocacy. Tactical Technology Collective.
 
+Schudson, M. (1998). The good citizen: A history of American civic life. Free Press.
+
 [Tauberer, J. (2004, Second Edition). Open Government Data: The Book](https://opengovdata.io/)
 
 [Goldstein, B., Lauren Dyson. Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org/)
