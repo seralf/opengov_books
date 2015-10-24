@@ -1,18 +1,111 @@
-- title: One-click science marketing
-  volume: '11'
-  URL: http://dx.doi.org/10.1038/nmat3283
-  DOI: 10.1038/nmat3283
-  issue: '4'
-  container-title: Nature Materials
-  publisher: Nature Publishing Group
-  author:
-  - family: Fenner
-    given: Martin
-    orcid: 0000-0003-1419-2405
-  page: 261-263
-  id: fenner2012a
-  type: article-journal
-  issued:
-    date-parts:
-      - 2012
-      - 3
+
+title: Full disclosure: The perils and promise of transparency.
+URL: http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/full-disclosure-perils-and-promise-transparency
+publisher: Cambridge Books Online
+author:
+	family: Fung
+	given: Archon
+author:
+	family: Graham
+	given: Mary
+author:
+	family: Weil
+	given: David
+issued:
+	date-parts:
+		2007
+
+
+title: Open government: Collaboration, transparency, and participation in practice.
+URL: http://shop.oreilly.com/product/9780596804367.do
+publisher: O'Reilly Media
+author:
+	family: Lathrop
+	given: Daniel
+author:
+	family: Ruma
+	given: Laurel
+issued:
+	date-parts:
+		2010
+
+
+title: Visualizing information for advocacy.
+URL: https://visualisingadvocacy.org
+publisher: Tactical Technology Collective
+author:
+	family: Emerson
+	given: J.
+issued:
+	date-parts:
+		2013
+
+
+title: The good citizen: A history of American civic life
+publisher: Free Press
+author:
+	family: Schudson
+	given: M.
+issued:
+	date-parts:
+		1998
+
+
+title: Rewire: Digital cosmopolitans in the age of connection
+publisher: WW Norton, Incorporated
+author:
+	family: Zuckerman
+	given: Ethan
+issued:
+	date-parts:
+		2013
+
+
+title: Open Government Data: The Book
+URL: https://opengovdata.io/
+publisher: WW Norton, Incorporated
+author:
+	family: Tauberer
+	given: Joshua
+issued:
+	date-parts:
+		2004
+
+
+title: Beyond Transparency: Open Data and the Future of Civic Innovation
+URL: http://beyondtransparency.org/
+publisher: Code for America Press
+author:
+	family: Goldstein 
+	given: Brett
+author:
+	family: Dyson
+	given: Lauren
+issued:
+	date-parts:
+		2013
+
+
+title: Lo stato trasparente: Linked open data e cittadinanza attiva
+URL: http://www.linkedopendata.it/wp-content/uploads/statotrasparente.pdf
+publisher: ETS
+author:
+	family: Di Donato
+	given: Francesca
+issued:
+	date-parts:
+		2010
+
+
+title: Wikicrazia – L’azione di governo al tempo della rete: capirla, progettarla, viverla da protagonisti
+URL: http://www.cottica.net/wikicrazia-italiano/
+publisher: ETS
+author:
+	family: Cottica
+	given: Alberto
+issued:
+	date-parts:
+		2010
+
+
+
