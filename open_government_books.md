@@ -22,6 +22,8 @@ Zuckerman, E. (2013). Rewire: Digital cosmopolitans in the age of connection. WW
 
 [Goldstein, B., Lauren Dyson. Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org/)
 
+[VV. AA. (2013) Open Gov Guide](http://www.opengovguide.com/)
+
 
 # Italiano
 

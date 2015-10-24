@@ -172,6 +172,21 @@
                 }
             ]
         },
+		{
+            "title": "Open Gov Guide",
+            "author": [
+                {
+                    "name": "VV. AA."
+                }
+            ],
+            "type": "book",
+            "year": "2013",
+            "link": [
+                {
+                    "url": "http://www.opengovguide.com"
+                }
+            ]
+        },
         {
             "title": "Lo stato trasparente: Linked open data e cittadinanza attiva",
             "author": [
