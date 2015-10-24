@@ -1,39 +1,209 @@
 {
     "metadata": {
-        "collection": "open_governement_books",
-        "label": "open governement books",
-        "description" "a small collection of open governement books",
-        "id": "long_complex_uuid",
-        "owner": "test",
-        "created": "2015-10-23T23:23:23.000000",
-        "modified": "2015-10-23T23:23:23.000000",
-        "source": "https://github.com/spaghetti-open-data",
-        "records": 1,
-        "from": 0,
-        "size": 0,
+        "collection": "open_gov_books",
+        "label": "open government books",
+        "description": "a small collection of open government books",
+        "id": "open_gov_books",
+        "created": "2015-10-23T23:23:23.000000"
     },
     "records": [
-        
-{
-    "title": "An example of links",
-    "link": [
         {
-            "url": "http://example.com",
-            "anchor": "Go to Example"
-        }
-    ]
-    "identifier": [
+            "title": "Full disclosure: The perils and promise of transparency",
+            "author": [
+                {
+                    "firstname": "Archon",
+                    "lastname": "Fung"
+                },
+                {
+                    "firstname": "Mary",
+                    "lastname": "Graham"
+                },
+                {
+                    "firstname": "David",
+                    "lastname": "Weil"
+                }
+            ],
+            "type": "book",
+            "year": "2007",
+            "link": [
+                {
+                    "url": "http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/full-disclosure-perils-and-promise-transparency"
+                }
+            ],
+            "publisher": {
+                "name": "Cambridge Books Online"
+            }
+        },
         {
-            "id": "10.1186/1758-2946-3-47",
-            "type": "DOI",
-            "url": "http://dx.doi.org/10.1186/1758-2946-3-47"
+            "title": "Open government: Collaboration, transparency, and participation in practice",
+            "author": [
+                {
+                    "firstname": "Daniel",
+                    "lastname": "Lathrop"
+                },
+                {
+                    "firstname": "Laurel",
+                    "lastname": "Ruma"
+                }
+            ],
+            "type": "book",
+            "year": "2010",
+            "link": [
+                {
+                    "url": "http://shop.oreilly.com/product/9780596804367.do"
+                }
+            ],
+            "publisher": {
+                "name": "O'Reilly Media, Inc."
+            }
+        },
+        {
+            "title": "Visualizing information for advocacy",
+            "author": [
+                {
+                    "firstname": "John",
+                    "lastname": "Emerson"
+                }
+            ],
+            "type": "book",
+            "year": "2008",
+            "link": [
+                {
+                    "url": "https://www.msu.edu/~jmonberg/415/Schedule_files/infodesign.pdf"
+                }
+            ],
+            "publisher": {
+                "name": "Tactical Technology Collective"
+            }
+        },
+        {
+            "title": "Visualising Information for Advocacy",
+            "author": [
+                {
+                    "firstname": "Stephanie",
+                    "lastname": "Hankey"
+                },
+                {
+                    "firstname": "Tom",
+                    "lastname": "Longley"
+                },
+                {
+                    "firstname": "Marek",
+                    "lastname": "Tuszynski"
+                },
+                {
+                    "firstname": "Maya Indira",
+                    "lastname": "Ganesh"
+                }
+            ],
+            "type": "book",
+            "year": "2013",
+            "link": [
+                {
+                    "url": "http://visualisingadvocacy.org/"
+                }
+            ],
+            "publisher": {
+                "name": "Tactical Technology Collective"
+            }
+        },
+        {
+            "title": "The good citizen: A history of American civic life",
+            "author": [
+                {
+                    "firstname": "Michael",
+                    "lastname": "Schudson"
+                }
+            ],
+            "type": "book",
+            "year": "1998",
+            "publisher": {
+                "name": "Free Press"
+            }
+        },
+        {
+            "title": "Rewire: Digital cosmopolitans in the age of connection",
+            "author": [
+                {
+                    "firstname": "Ethan",
+                    "lastname": "Zuckerman"
+                }
+            ],
+            "type": "book",
+            "year": "2013",
+            "publisher": {
+                "name": "W. W. Norton & Company"
+            }
+        },
+        {
+            "title": "Open Government Data: The Book",
+            "author": [
+                {
+                    "firstname": "Joshua",
+                    "lastname": "Tauberer"
+                }
+            ],
+            "type": "book",
+            "year": "2014",
+            "link": [
+                {
+                    "url": "https://opengovdata.io/"
+                }
+            ]
+        },
+        {
+            "title": "Beyond Transparency: Open Data and the Future of Civic Innovation",
+            "author": [
+                {
+                    "firstname": "Brett",
+                    "lastname": "Goldstein"
+                },
+                {
+                    "firstname": "Lauren",
+                    "lastname": "Dyson"
+                }
+            ],
+            "type": "book",
+            "year": "2013",
+            "publisher": "Code for America Press",
+            "link": [
+                {
+                    "url": "http://beyondtransparency.org/"
+                }
+            ]
+        },
+        {
+            "title": "Lo stato trasparente: Linked open data e cittadinanza attiva",
+            "author": [
+                {
+                    "firstname": "Francesca",
+                    "lastname": "Di Donato"
+                }
+            ],
+            "type": "book",
+            "year": "2010",
+            "link": [
+                {
+                    "url": "http://www.linkedopendata.it/wp-content/uploads/statotrasparente.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Wikicrazia – L’azione di governo al tempo della rete: capirla, progettarla, viverla da protagonisti",
+            "author": [
+                {
+                    "firstname": "Alberto",
+                    "lastname": "Cottica"
+                }
+            ],
+            "type": "book",
+            "year": "2010",
+            "publisher": "Navarra Editore",
+            "link": [
+                {
+                    "url": "http://www.cottica.net/wikicrazia-italiano/"
+                }
+            ]
         }
     ]
 }
-
-
-
-
-    ]
-}
-       

@@ -31,11 +31,30 @@ issued:
 
 
 title: Visualizing information for advocacy.
-URL: https://visualisingadvocacy.org
+URL: https://www.msu.edu/~jmonberg/415/Schedule_files/infodesign.pdf
 publisher: Tactical Technology Collective
 author:
 	family: Emerson
-	given: J.
+	given: John
+issued:
+	date-parts:
+		2008
+
+title: Visualizing information for advocacy.
+URL: http://visualisingadvocacy.org
+publisher: Tactical Technology Collective
+author:
+	family: Hankey
+	given: Stephanie
+author:
+	family: Longley
+	given: Tom
+author:
+	family: Tuszynski
+	given: Marek
+author:
+	family: Ganesh
+	given: Maya Indira
 issued:
 	date-parts:
 		2013
@@ -106,6 +125,8 @@ author:
 issued:
 	date-parts:
 		2010
+
+
 
 
 

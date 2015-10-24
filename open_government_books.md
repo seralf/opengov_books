@@ -6,7 +6,9 @@
 
 [Lathrop, D., & Ruma, L. (2010). Open government: Collaboration, transparency, and participation in practice. " O'Reilly Media, Inc.".](http://shop.oreilly.com/product/9780596804367.do)
 
-Emerson, J. (2013). Visualizing information for advocacy. Tactical Technology Collective.
+[Emerson, J. (2008). Visualizing information for advocacy. Tactical Technology Collective.](https://www.msu.edu/~jmonberg/415/Schedule_files/infodesign.pdf)
+
+[Hankey, S., Longley, T., Tuszynski, M., Ganesh M. I. (2013). Visualizing information for advocacy. Tactical Technology Collective.](http://visualisingadvocacy.org)
 
 Schudson, M. (1998). The good citizen: A history of American civic life. Free Press.
 
