@@ -1,0 +1,39 @@
+{
+    "metadata": {
+        "collection": "open_governement_books",
+        "label": "open governement books",
+        "description" "a small collection of open governement books",
+        "id": "long_complex_uuid",
+        "owner": "test",
+        "created": "2015-10-23T23:23:23.000000",
+        "modified": "2015-10-23T23:23:23.000000",
+        "source": "https://github.com/spaghetti-open-data",
+        "records": 1,
+        "from": 0,
+        "size": 0,
+    },
+    "records": [
+        
+{
+    "title": "An example of links",
+    "link": [
+        {
+            "url": "http://example.com",
+            "anchor": "Go to Example"
+        }
+    ]
+    "identifier": [
+        {
+            "id": "10.1186/1758-2946-3-47",
+            "type": "DOI",
+            "url": "http://dx.doi.org/10.1186/1758-2946-3-47"
+        }
+    ]
+}
+
+
+
+
+    ]
+}
+       
