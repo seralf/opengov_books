@@ -219,6 +219,40 @@
                     "url": "http://www.cottica.net/wikicrazia-italiano/"
                 }
             ]
+        },
+		{
+            "title": "Equilibri digitali: le tecnologie per la trasparenza, gli spazi pubblici sul web e le battaglie libertarie degli attivisti digitali",
+            "author": [
+                {
+                    "firstname": "Alberto",
+                    "lastname": "Stornelli"
+                }
+            ],
+            "type": "book",
+            "year": "2014",
+            "publisher": "Digitalissimo",
+            "link": [
+                {
+                    "url": "http://www.amazon.it/Equilibri-digitali.../dp/B00O4TDZC8"
+                }
+            ]
+        },
+		{
+            "title": "Il fenomeno open data - Indicazioni e norme per un mondo di dati aperti",
+            "author": [
+                {
+                    "firstname": "Simone",
+                    "lastname": "Aliprandi"
+                }
+            ],
+            "type": "book",
+            "year": "2014",
+            "publisher": "Ledizioni",
+            "link": [
+                {
+                    "url": "http://www.aliprandi.org/fenomeno-opendata/"
+                }
+            ]
         }
     ]
 }

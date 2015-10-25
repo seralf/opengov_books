@@ -31,6 +31,14 @@ Zuckerman, E. (2013). Rewire: Digital cosmopolitans in the age of connection. WW
 
 [Cottica, A. (2010) Wikicrazia – L’azione di governo al tempo della rete: capirla, progettarla, viverla da protagonisti](http://www.cottica.net/wikicrazia-italiano/)
 
+
+[Stornelli, A. (2014) Equilibri digitali: le tecnologie per la trasparenza, gli spazi pubblici sul web e le battaglie libertarie degli attivisti digitali. Digitalissimo.]
+(http://www.amazon.it/Equilibri-digitali.../dp/B00O4TDZC8)
+
+[Aliprandi, S. (2014) Il fenomeno open data - Indicazioni e norme per un mondo di dati aperti](http://www.aliprandi.org/fenomeno-opendata)
+
+
+
 * * *
 
 # raccolte:
