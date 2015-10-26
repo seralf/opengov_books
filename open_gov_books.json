@@ -182,6 +182,23 @@
                 }
             ]
         },
+		{
+            "title": "Smart Citizens, Smarter State: The Technologies of Expertise and the Future of Governing",
+            "author": [
+                {
+                    "firstname": "Beth Simone",
+                    "lastname": "Noveck"
+                }
+            ],
+            "type": "book",
+            "year": "2015",
+            "publisher": "Harvard University Press",
+            "link": [
+                {
+                    "url": "http://www.hup.harvard.edu/catalog.php?isbn=9780674286054"
+                }
+            ]
+        },
         {
             "title": "Lo stato trasparente: Linked open data e cittadinanza attiva",
             "author": [
