@@ -7,10 +7,10 @@ Una piccola collezione WIP di libri su su trasparenza, (linked) open data e open
 Per aggiungere un libro si può:
 * suggerire l'aggiunta con un commento nella [discussione](https://groups.google.com/forum/#!topic/spaghettiopendata/KV43kStNNE4) su [Spaghetti Open Data](https://groups.google.com/forum/#!topic/spaghettiopendata)
 * aggiungere un libro alla collezione tramite github:
-	1. fare un fork del repository
-	2. editare il file [open_government_books.md](https://github.com/spaghetti-open-data/opengov_books/blob/master/open_government_books.md)
-	3. creare una "pull request", indicando nel commento il libro aggiunto
-
+1. fare un fork del repository
+2. editare il file [open_government_books.md](https://github.com/spaghetti-open-data/opengov_books/blob/master/open_government_books.md)
+3. aggiungere le modifiche via commit
+4. creare una "pull request", indicando nel commento il libro aggiunto
 
 
 # TODO
