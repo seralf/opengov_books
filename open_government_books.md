@@ -4,15 +4,11 @@
 
 [Fung, A., Graham, M., and Weil, D. (2007). Full disclosure: The perils and promise of transparency.](http://www.cambridge.org/us/academic/subjects/politics-international-relations/political-economy/full-disclosure-perils-and-promise-transparency?format=PB?format=PB)
 
-[Lathrop, D., & Ruma, L. (2010). Open government: Collaboration, transparency, and participation in practice. " O'Reilly Media, Inc.".](http://shop.oreilly.com/product/9780596804367.do)
+[AA.VV. (2010). Open government: Collaboration, transparency, and participation in practice. " O'Reilly Media, Inc.".](http://shop.oreilly.com/product/9780596804367.do)
 
 [Emerson, J. (2008). Visualizing information for advocacy. Tactical Technology Collective.](https://www.msu.edu/~jmonberg/415/Schedule_files/infodesign.pdf)
 
 [Hankey, S., Longley, T., Tuszynski, M., Ganesh M. I. (2013). Visualizing information for advocacy. Tactical Technology Collective.](http://visualisingadvocacy.org)
-
-Schudson, M. (1998). The good citizen: A history of American civic life. Free Press.
-
-Zuckerman, E. (2013). Rewire: Digital cosmopolitans in the age of connection. WW Norton, Incorporated.
 
 Schudson, M. (1998). The good citizen: A history of American civic life. Free Press.
 
