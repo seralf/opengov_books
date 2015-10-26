@@ -199,6 +199,22 @@
                 }
             ]
         },
+		{
+            "title": "Open Society (nature, risks and opportunities of Open Data for ALL parts of society",
+            "author": [
+                {
+                    "firstname": "Marco",
+                    "lastname": "Fioretti"
+                }
+            ],
+            "type": "book",
+            "year": "2014",
+            "link": [
+                {
+                    "url": "http://mfioretti.com/assets/files/mfioretti-open-data-open-society.epub"
+                }
+            ]
+        },
         {
             "title": "Lo stato trasparente: Linked open data e cittadinanza attiva",
             "author": [

@@ -21,8 +21,10 @@ Zuckerman, E. (2013). Rewire: Digital cosmopolitans in the age of connection. WW
 [VV. AA. (2013) Open Gov Guide](http://www.opengovguide.com/)
 
 
-[Noveck, B. S. (2015) Smart Citizens, Smarter State: The Technologies of Expertise and the Future of Governing. Harvard University Press.]
+Noveck, B. S. (2015) Smart Citizens, Smarter State: The Technologies of Expertise and the Future of Governing. Harvard University Press.
 
+
+[Fioretti, M. (2014) Open Data, Open Society (nature, risks and opportunities of Open Data for ALL parts of society).](http://mfioretti.com/assets/files/mfioretti-open-data-open-society.epub)
 
 
 # Italiano
