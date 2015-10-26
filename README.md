@@ -12,6 +12,7 @@ Per aggiungere un libro si può:
 	3. creare una "pull request", indicando nel commento il libro aggiunto
 
 
+
 # TODO
 - [x] muovere sul repository di [spaghetti open data](https://github.com/spaghetti-open-data)
 - [ ] aggiunta altri libri e raccolte, possibilmente anche in italiano
@@ -19,3 +20,5 @@ Per aggiungere un libro si può:
   - [x] test formattazione in [bib_json](http://okfnlabs.org/bibjson/)
   - [x] test formattazione con [citeproc YAML](http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/)
   - [ ] script per generare i diversi formati. Come sorgente iniziale potremmo usare YAML o bibjson
+
+
