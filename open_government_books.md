@@ -26,6 +26,13 @@ Noveck, B. S. (2015) Smart Citizens, Smarter State: The Technologies of Expertis
 
 [Fioretti, M. (2014) Open Data, Open Society (nature, risks and opportunities of Open Data for ALL parts of society).](http://mfioretti.com/assets/files/mfioretti-open-data-open-society.epub)
 
+[VV. AA. (2015) Open Data as Open Educational Resources - Case studies of emerging practice](http://education.okfn.org/files/2015/11/Book-Open-Data-as-Open-Educational-Resources1.pdf)
+
+Atenas, J., & Havemann, L. (Eds.). (2015). Open Data as Open Educational Resources:
+Case studies of emerging practice. London: Open Knowledge, Open Education Working
+Group. [http://dx.doi.org/10.6084/m9.figshare.1590031]().
+
+
 
 # Italiano
 
